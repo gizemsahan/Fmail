@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Fmail
 Comment=Mail client of Faunus project.
-Exec=python3 ~/Faunus/Fmail/src/fmail.pyc
-Icon=~/Faunus/Fmail/app-icon.png
+Exec=python3 ~/.Faunus/Fmail/src/fmail.pyc
+Icon=~/.Faunus/Fmail/app-icon.png
 Terminal=false
 Type=Application
 StartupNotify=true
